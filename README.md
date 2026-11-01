@@ -57,9 +57,9 @@ Building projects, learning new technologies, and turning ideas into reality.
 <div align="center">
 
 <a href="https://github.com/shivamhans">
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamhans&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api?username=shivamhans&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </a><a href="https://github.com/shivamhans">
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamhans&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivamhans&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </a>
 
 <br/><br/>
@@ -82,19 +82,9 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shivamhans&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! 💜
+### 💜 Thanks for visiting!
 
 *Keep learning. Keep building. Keep improving.* 🚀
 
