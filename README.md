@@ -43,10 +43,10 @@ Building projects, learning new technologies, and turning ideas into reality.
 <div align="center">
 
 <a href="https://github.com/shivamhans/attendpro">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamhans&repo=attendpro&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AttendPro repository card" />
+  <img src="https://img.shields.io/badge/View%20Project-AttendPro-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View AttendPro project" />
 </a>
 
-**AttendPro** · An attendance management project.
+<p>Attendance management project</p>
 
 </div>
 
