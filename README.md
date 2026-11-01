@@ -68,16 +68,6 @@ Building projects, exploring new technologies, and turning ideas into reality.
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamhans&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💜 Thanks for visiting!
