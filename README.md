@@ -4,7 +4,7 @@
 
 ### Developer · Student · Tech Enthusiast
 
-Building projects, learning new technologies, and turning ideas into reality.
+Building projects, exploring new technologies, and turning ideas into reality.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shivamhans-181717?style=flat-square&logo=github)](https://github.com/shivamhans)
 [![Profile Views](https://komarev.com/ghpvc/?username=shivamhans&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/shivamhans)
@@ -19,6 +19,8 @@ Building projects, learning new technologies, and turning ideas into reality.
 - 🔭 Working on personal projects, including AttendPro.
 - 🌱 Always learning and experimenting with new technologies.
 - 🛠️ I enjoy building practical tools and solving problems.
+
+---
 
 ## 🧰 Tech Stack
 
@@ -43,10 +45,10 @@ Building projects, learning new technologies, and turning ideas into reality.
 <div align="center">
 
 <a href="https://github.com/shivamhans/attendpro">
-  <img src="https://img.shields.io/badge/View%20Project-AttendPro-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View AttendPro project" />
+  <img src="https://img.shields.io/badge/Explore_AttendPro-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore AttendPro on GitHub" />
 </a>
 
-<p>Attendance management project</p>
+<p>Attendance management project · <a href="https://github.com/shivamhans/attendpro">View repository →</a></p>
 
 </div>
 
@@ -57,15 +59,9 @@ Building projects, learning new technologies, and turning ideas into reality.
 <div align="center">
 
 <a href="https://github.com/shivamhans">
-  <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api?username=shivamhans&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" height="180" src="https://github-stats-extended.vercel.app/api?username=shivamhans&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </a><a href="https://github.com/shivamhans">
-  <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivamhans&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/shivamhans">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=shivamhans&theme=tokyonight&hide_border=true&background=0D1117&ring=BB9AF7&fire=BB9AF7&currStreakLabel=BB9AF7" alt="GitHub contribution streak" />
+  <img width="49%" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivamhans&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most-used programming languages" />
 </a>
 
 </div>
