@@ -47,29 +47,39 @@ I enjoy turning ideas into useful projects, experimenting with web technologies,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-## 📌 Featured Project
-
-### [AttendPro](https://github.com/shivamhans/attendpro)
-
-A responsive attendance-tracking web app with attendance summaries, a calendar, leave predictions, and Supabase authentication and storage.
-
-[**Explore the repository →**](https://github.com/shivamhans/attendpro)
-
-## 📊 GitHub at a Glance
+## 🚀 Featured Project
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamhans&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam's GitHub statistics" />
+<a href="https://github.com/shivamhans/attendpro">
+  <img src="https://img.shields.io/badge/AttendPro-Attendance%20Tracker-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="AttendPro project badge" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamhans&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<p>
+  A responsive attendance tracker with a calendar, attendance analytics,
+  leave predictions, and Supabase integration.
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shivamhans&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/shivamhans/attendpro">View Project →</a>
 
 </div>
 
 ---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivamhans&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+**Thanks for visiting my profile! 💜**
+
+*Building projects. Learning every day.*
+
+</div>
+
 
 <div align="center">
 
