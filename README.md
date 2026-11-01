@@ -16,7 +16,7 @@ Building projects, exploring new technologies, and turning ideas into reality.
 ## 🚀 About Me
 
 - 💻 Interested in web development, programming, and software projects.
-- 🔭 Working on personal projects, including AttendPro.
+- 🔭 Working on personal projects, including Ritvan POS.
 - 🌱 Always learning and experimenting with new technologies.
 - 🛠️ I enjoy building practical tools and solving problems.
 
