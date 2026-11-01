@@ -1,93 +1,175 @@
- <div align="center">
+# 👋 Hey, I'm Shivam Hans!
 
-# Hey, I'm Shivam 👋
+<div align="center">
 
-### Student Developer · Builder · Always Learning
+### 💻 Developer • Student • Tech Enthusiast
 
-I enjoy turning ideas into useful projects, experimenting with web technologies, and learning by building.
+Building projects, exploring new technologies, and turning ideas into reality.
 
-[![GitHub followers](https://img.shields.io/github/followers/shivamhans?label=Followers&style=flat&logo=github)](https://github.com/shivamhans?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=shivamhans&style=flat&color=7C3AED)](https://github.com/shivamhans)
+[![GitHub](https://img.shields.io/badge/GitHub-shivamhans-181717?style=for-the-badge&logo=github)](https://github.com/shivamhans)
+[![Profile Views](https://komarev.com/ghpvc/?username=shivamhans&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/shivamhans)
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 About Me
 
-- 🛠️ Building projects and improving my development skills.
-- 🌱 Learning more about full-stack development and databases.
-- 🤝 Open to collaborating on interesting projects.
-- 💡 Interested in practical tools that solve everyday problems.
+- 🔭 Currently working on **AttendPro** and other personal projects.
+- 🌱 Exploring web development, programming, and software engineering.
+- 🛠️ I enjoy building practical tools and experimenting with new ideas.
+- 🎯 Always learning, improving, and building something new.
+- ⚡ Fun fact: I enjoy figuring out how things work — from code to hardware.
 
-## 🧰 Technologies & Tools
+---
 
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-**Databases & Backend**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Platforms & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-## 🚀 Featured Project
+## 🧰 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/shivamhans/attendpro">
-  <img src="https://img.shields.io/badge/AttendPro-Attendance%20Tracker-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="AttendPro project badge" />
-</a>
+### Languages
 
-<p>
-  A responsive attendance tracker with a calendar, attendance analytics,
-  leave predictions, and Supabase integration.
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<a href="https://github.com/shivamhans/attendpro">View Project →</a>
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 🌟 Featured Project
 
 <div align="center">
 
-<!-- Main stats -->
+[![AttendPro](https://github-readme-stats.vercel.app/api/pin/?username=shivamhans&repo=attendpro&theme=tokyonight&hide_border=true)](https://github.com/shivamhans/attendpro)
 
-<img width="49%" src="https://ghstats.dev/api/card?username=shivamhans&theme=tokyonight&alltime=true" alt="GitHub profile statistics" />
+**AttendPro** — Check out my attendance management project.
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 🏆 Overall Stats
+
+<img width="49%" src="https://ghstats.dev/api/card?username=shivamhans&theme=tokyonight&alltime=true" alt="GitHub overall statistics" />
 <img width="49%" src="https://ghstats.dev/api/langs?username=shivamhans&theme=tokyonight&layout=grid" alt="Most used programming languages" />
 
 <br/><br/>
 
-**Thanks for visiting my profile! 💜**
+### 🔥 Contribution Streak
 
-*Building projects. Learning every day.*
+<img width="75%" src="https://streak-stats.demolab.com/?user=shivamhans&theme=tokyonight&hide_border=true&background=0D1117&ring=BB9AF7&fire=BB9AF7&currStreakLabel=BB9AF7" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+### 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamhans&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+<br/><br/>
+
+### 🥇 GitHub Trophies
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=shivamhans&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies and achievements" />
 
 </div>
 
+---
+
+## 📌 Detailed GitHub Metrics
 
 <div align="center">
 
-### Thanks for stopping by! ✨
+### 💫 Repository & Community Stats
 
-*Learning, building, and getting a little better with every project.*
+![Followers](https://ghstats.dev/api/mini?username=shivamhans&metric=followers&style=for-the-badge)
+![Public Repositories](https://ghstats.dev/api/mini?username=shivamhans&metric=repos&style=for-the-badge)
+![Stars Earned](https://ghstats.dev/api/mini?username=shivamhans&metric=stars&style=for-the-badge)
+
+<br/><br/>
+
+### 💻 Coding Activity
+
+![Total Commits](https://ghstats.dev/api/mini?username=shivamhans&metric=commits&style=for-the-badge)
+![Pull Requests](https://ghstats.dev/api/mini?username=shivamhans&metric=prs&style=for-the-badge)
+![Issues Opened](https://ghstats.dev/api/mini?username=shivamhans&metric=issues&style=for-the-badge)
+
+<br/><br/>
+
+### 📅 Contributions & Consistency
+
+![Contributions](https://ghstats.dev/api/mini?username=shivamhans&metric=contributions&style=for-the-badge)
+![Current Streak](https://ghstats.dev/api/mini?username=shivamhans&metric=streak&style=for-the-badge)
+![Commits This Week](https://ghstats.dev/api/mini?username=shivamhans&metric=week&style=for-the-badge)
+
+<br/><br/>
+
+### 📉 Recent Activity Trend
+
+![Activity Sparkline](https://ghstats.dev/api/sparkline?username=shivamhans&days=30&width=800&height=160)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+To enable the snake animation:
+1. Create a GitHub Actions workflow in your profile repository.
+2. Generate the output file named github-contribution-grid-snake.svg.
+3. Commit the generated SVG to the output branch.
+4. Replace the URL below with your generated SVG path.
+-->
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+## 💬 Developer Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/shivamhans)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting!
+
+*If you find something interesting in my repositories, feel free to explore.*
+
+**Keep learning. Keep building. Keep shipping.** 🚀
 
 </div>
