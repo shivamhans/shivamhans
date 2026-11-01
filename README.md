@@ -70,7 +70,10 @@ I enjoy turning ideas into useful projects, experimenting with web technologies,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shivamhans&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
+<!-- Main stats -->
+
+<img width="49%" src="https://ghstats.dev/api/card?username=shivamhans&theme=tokyonight&alltime=true" alt="GitHub profile statistics" />
+<img width="49%" src="https://ghstats.dev/api/langs?username=shivamhans&theme=tokyonight&layout=grid" alt="Most used programming languages" />
 
 <br/><br/>
 
